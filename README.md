@@ -2,7 +2,7 @@
 
 Repository contains a simple WiFi Monitoring tool built using Python and scapy. 
 
-## :Information_source: Technologies used
+## :information_source: Technologies used
 * Python
 * Scapy
 
