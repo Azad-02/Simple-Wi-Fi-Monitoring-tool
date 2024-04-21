@@ -9,13 +9,13 @@ Repository contains a simple WiFi Monitoring tool built using Python and scapy.
 ## :information_source: How to use?
 ```bash
 # Clone the repository
-$ git clone https://github.com/Azad-02/
+$ git clone https://github.com/Azad-02/Simple-Wi-Fi-Monitoring-tool
 
 # Enter the repository
-$ cd 
+$ cd Simple-Wi-Fi-Monitoring-tool
 
 # Open a terminal and run
-$
+$ sudo python3 Wi-Fi_Monitor.py 
 ```
 
 ## Note: 
